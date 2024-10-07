@@ -3,6 +3,7 @@ It uses D3.js to handle data fetching and manipulation, and Plotly.js to create 
 Users can select a sample from a dropdown menu to view detailed information about the bacterial composition of each sample.
 
 Drop Down Menu :
+
 ![image](https://github.com/user-attachments/assets/21761751-1a71-4824-b638-bcd377d2e6b6)
 
 
